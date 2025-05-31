@@ -1,8 +1,14 @@
-📚 Book Review API
+
+# 📚 Book Review API
+
 A RESTful API built with Node.js, Express, and MongoDB for managing books, user reviews, and authentication using JWT.
 
-🚀 Project Setup Instructions
-1. Clone the repository
+---
+
+## 🚀 Project Setup Instructions
+
+### 1. Clone the repository
+```bash
 git clone https://github.com/kulkarnimanas732/book-review-api.git
 cd book-review-api
 
@@ -117,7 +123,7 @@ Each user can only leave one review per book
 Book and review actions are only allowed if authenticated
 
 
-Search is case-insensitive and partial match
+Search is case-insensitive and supports partial match
 
 
 JWT token is used in the Authorization header
@@ -148,7 +154,3 @@ Review
   rating: Number (1–5),
   comment: String
 }
-
-
-Let me know if you want this saved as a file or added to your project.
-
