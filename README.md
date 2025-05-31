@@ -7,8 +7,9 @@ A RESTful API built with Node.js, Express, and MongoDB for managing books, user 
 
 ## 🚀 Project Setup Instructions
 
-### 1. Clone the repository
+
 ```bash
+### 1. Clone the repository
 git clone https://github.com/kulkarnimanas732/book-review-api.git
 cd book-review-api
 
